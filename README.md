@@ -1,1 +1,1 @@
-# Django2018
+# Django2018我是林锐UI
